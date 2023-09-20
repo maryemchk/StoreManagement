@@ -1,0 +1,14 @@
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.csproj.AssemblyReference.cache
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.Properties.Resources.resources
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.csproj.GenerateResource.cache
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\21655\Desktop\source\myFirstProject\bin\Debug\myFirstProject.exe.config
+C:\Users\21655\Desktop\source\myFirstProject\bin\Debug\myFirstProject.exe
+C:\Users\21655\Desktop\source\myFirstProject\bin\Debug\myFirstProject.pdb
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.exe
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.pdb
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.Form1.resources
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.AjouterForm.resources
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.ModifierForm.resources
+C:\Users\21655\Desktop\source\myFirstProject\obj\Debug\myFirstProject.MDIParent1.resources
